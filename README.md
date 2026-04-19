@@ -1,62 +1,38 @@
-Berikut adalah versi **README.md** yang sudah rapi, siap langsung kamu copy-paste ke GitHub:
+# 👨‍💻 PERSONAL-WEB
 
-```markdown
-# 👋 PERSONAL-WEB
-
-Website pribadi saya yang sederhana dan pertama kali dibuat.
+Website pribadi saya yang sederhana namun penuh makna.  
+Repo pertama saya di GitHub sekaligus proyek web development pertama.
 
 ## Tentang Proyek
 
-Ini adalah **repo pertama saya di GitHub** sekaligus website pribadi saya. Dibuat dengan HTML, CSS, dan JavaScript murni (vanilla) sebagai sarana belajar web development.
+Proyek ini adalah **personal website** saya yang dibangun menggunakan HTML, CSS, dan JavaScript vanilla. 
 
-Website ini menampilkan informasi tentang saya, latar belakang, dan beberapa hal menarik lainnya.
+Tujuan utamanya adalah memperkenalkan diri, menampilkan resume, serta menjadi tempat latihan saya dalam belajar web development. Desainnya dibuat clean, responsif, dan minimalis.
 
 ## ✨ Fitur
 
-- Desain responsif (ramah mobile)
-- Animasi sederhana
-- Tampilan clean dan minimalis
-- Mudah untuk dikustomisasi
+- Desain responsif (mobile-friendly)
+- Animasi halus dengan JavaScript
+- Tampilan modern dan bersih
+- Mudah dikustomisasi sesuai kebutuhan
 
 ## 🛠️ Teknologi yang Digunakan
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
 
-## 📁 Struktur Folder
+## 📁 Struktur Proyek
 
-```
+```bash
 PERSONAL-WEB/
 ├── index.html
 ├── main.js
 ├── style/
 │   └── style.css
-├── sapiens.png
+├── sapiens.png                 # Foto profil / hero image
 ├── Resume_Muh_Syahrir_Hamdani_No_Achievement.pdf
-└── assets/
-```
-
-## 🚀 Cara Menjalankan Secara Lokal
-
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/arill2/PERSONAL-WEB.git
-   ```
-2. Buka folder `PERSONAL-WEB`
-3. Double klik file `index.html` atau gunakan Live Server di VS Code
-
-## 📌 Rencana Pengembangan
-
-- [ ] Menambahkan halaman Portofolio / Projects
-- [ ] Dark / Light mode toggle
-- [ ] Integrasi GitHub API
-- [ ] Contact form yang berfungsi
-- [ ] Optimasi SEO dan performa
-
----
-
-### Terima kasih telah berkunjung! ✨
-
-Made with ❤️ by **Muh. Syahrir Hamdani** (arill2)
-
+├── WHAT-IS-A-BUG-BOUNTY-AND-HOW-IS-IT-HELPFUL-IN-SECURING-SMART-CONTRACTS-graphic-min-1024x536.png
+├── Laporan_Bug_SIAKAD_PIPMakassar (2).docx
+├── iconmonstr-*.png            # Icon pendukung
+└── README.md
